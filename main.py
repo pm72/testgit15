@@ -1,3 +1,6 @@
+print("Hello, world!..")
+
+
 def my_func(a, b):
   if a < b:
     a, b = b, a
